@@ -9,17 +9,17 @@ import android.view.ViewGroup;
 
 import com.example.mhues.miproyecto.R;
 
-/**
- * Created by mhues on 24/03/2016.
- */
-public class FragmentEmpleo extends Fragment {
+public class FragmentReciclerView extends Fragment {
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         super.onCreateView(inflater, container, savedInstanceState);
-        View root = inflater.inflate(R.layout.fragment_noticias, container, false);
+        View root = inflater.inflate(R.layout.fragment_recycler_view, container, false);
 
         return root;
+
+
+
     }
 }

@@ -16,7 +16,6 @@ import java.util.Locale;
 public class PagerAdapter extends FragmentPagerAdapter {
 
 
-
     public PagerAdapter(FragmentManager fm) {
         super(fm);
     }

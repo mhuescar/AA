@@ -38,25 +38,7 @@ public class FragmentNoticias extends Fragment {
         persons.add(new Person("Lillie Watts", "35 years old", R.mipmap.foto169));
         persons.add(new Person("Emma Wilson", "23 years old", R.mipmap.foto169));
         persons.add(new Person("Lavery Maiss", "25 years old", R.mipmap.foto169));
-        persons.add(new Person("Lillie Watts", "35 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Emma Wilson", "23 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Lavery Maiss", "25 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Lillie Watts", "35 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Emma Wilson", "23 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Lavery Maiss", "25 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Lillie Watts", "35 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Emma Wilson", "23 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Lavery Maiss", "25 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Lillie Watts", "35 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Emma Wilson", "23 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Lavery Maiss", "25 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Lillie Watts", "35 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Emma Wilson", "23 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Lavery Maiss", "25 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Lillie Watts", "35 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Emma Wilson", "23 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Lavery Maiss", "25 years old", R.mipmap.ic_launcher));
-        persons.add(new Person("Lillie Watts", "35 years old", R.mipmap.ic_launcher));
+
 
 
         //Para controlar la vista del RecyclerView

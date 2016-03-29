@@ -24,6 +24,7 @@ public abstract class FragmentContainerActivity extends AppCompatActivity {
         toolbar.setTitle("Antiguos Alumnos");
         setSupportActionBar(toolbar);
 
+
         FragmentManager fm = getSupportFragmentManager();
         Fragment fragment = fm.findFragmentById(R.id.fragment_container); //se busca si existe un fragment primero por si ya está creado
 

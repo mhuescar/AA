@@ -10,7 +10,7 @@ import android.support.v7.widget.Toolbar;
 
 import com.example.mhues.miproyecto.R;
 
-//Actividades que contienen un único fragment
+//ESTA ES LA ACTIVIDAD PRINCIPAL QUE CONTIENE TODOS LOS FRAGMENTS
 
 public abstract class FragmentContainerActivity extends AppCompatActivity {
 

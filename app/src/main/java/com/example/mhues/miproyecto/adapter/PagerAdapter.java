@@ -10,9 +10,8 @@ import com.example.mhues.miproyecto.fragment.FragmentEventos;
 
 import java.util.Locale;
 
-/**
- * Created by mhues on 23/03/2016.
- */
+//ACTIVIDAD QUE CONTROLA EL FUNCIOANMIENTO DEL PAGER, QUÉ PAGINA VISUALIZAMOS CREANDO
+//EL FRAGMENT CORRESPONDIENTE A VISUALIZAR
 public class PagerAdapter extends FragmentPagerAdapter {
 
 

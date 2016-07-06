@@ -40,7 +40,6 @@ public class FragmentNoticias extends Fragment {
         persons.add(new Person("Lavery Maiss", "25 years old", R.mipmap.foto169));
 
 
-
         //Para controlar la vista del RecyclerView
         RecyclerView rv = (RecyclerView) root.findViewById(R.id.rv);
         rv.setHasFixedSize(true);

@@ -6,6 +6,7 @@ import android.view.Menu;
 import com.example.mhues.miproyecto.R;
 import com.example.mhues.miproyecto.fragment.FragmentPager;
 
+//ACTIVIDAD DEL PAGER, CUANDO SE LE LLAMA CREA UN NUEVO PAGER Y LE PONE EL MENU DE LOS 3 PUNTOS
 public class PagerActivity extends FragmentContainerActivity  {
 
     @Override
